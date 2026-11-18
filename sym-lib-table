@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ISL5857") (type "KiCad") (uri "${KIPRJMOD}/libs_ISL5857/2026-11-18_13-47-25.kicad_sym") (options "") (descr ""))
+	(lib (name "MCP4821") (type "KiCad") (uri "${KIPRJMOD}/libs_MCP4821/2026-11-18_14-30-20.kicad_sym") (options "") (descr ""))
+)

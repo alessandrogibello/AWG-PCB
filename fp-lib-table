@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "fp_ISL5857") (type "KiCad") (uri "${KIPRJMOD}/libs_ISL5857/footprints.pretty") (options "") (descr ""))
 	(lib (name "fp_MCP4821") (type "KiCad") (uri "${KIPRJMOD}/libs_MCP4821/footprints.pretty") (options "") (descr ""))
+	(lib (name "fp_AD8065ARZ") (type "KiCad") (uri "${KIPRJMOD}/libs_AD8065ARZ/footprints.pretty") (options "") (descr ""))
+	(lib (name "fp_DCWN03B-12") (type "KiCad") (uri "${KIPRJMOD}/libs_DCWN03B-12/KiCADv6/footprints.pretty") (options "") (descr ""))
 )

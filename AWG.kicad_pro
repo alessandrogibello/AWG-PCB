@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.8,
           "height": 1.27,
-          "width": 1.27
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -466,10 +466,9 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "ignore",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
-      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -527,7 +526,6 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -591,18 +589,6 @@
         },
         {
           "group_by": true,
-          "label": "Exclude from Simulation",
-          "name": "${EXCLUDE_FROM_SIM}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Position Files",
-          "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
-        },
-        {
-          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
@@ -659,18 +645,13 @@
       {
         "filename": "AWG.kicad_sch",
         "name": "AWG",
-        "uuid": "67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
+        "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "J1,J4,#FLG1-6,R2,R6,R8,D1-2,#PWR9-15,U3-4,C5,K1,Q1,F1,C5_ceramic1-5,FB1",
+    "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "67ef9a37-69ee-4e98-8ec5-187b95ccbb82",
-      "AWG"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

@@ -645,13 +645,18 @@
       {
         "filename": "AWG.kicad_sch",
         "name": "AWG",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR22",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "67ef9a37-69ee-4e98-8ec5-187b95ccbb82",
+      "AWG"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

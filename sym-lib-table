@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "ISL5857") (type "KiCad") (uri "${KIPRJMOD}/libs_ISL5857/2026-11-18_13-47-25.kicad_sym") (options "") (descr ""))
 	(lib (name "MCP4821") (type "KiCad") (uri "${KIPRJMOD}/libs_MCP4821/2026-11-18_14-30-20.kicad_sym") (options "") (descr ""))
+	(lib (name "DCWN03E-05") (type "KiCad") (uri "${KIPRJMOD}/libs_DCWN03B-12/KiCADv6/2026-11-18_17-22-33.kicad_sym") (options "") (descr ""))
+	(lib (name "OPA350") (type "KiCad") (uri "${KIPRJMOD}/libs_OPA350UA-2K5/KiCADv6/2026-11-18_17-15-42.kicad_sym") (options "") (descr ""))
 )

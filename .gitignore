@@ -1,7 +1,4 @@
-# macOS
 .DS_Store
-
-# KiCad 10 lockfiles, local state, and built-in history/backups
 ~*.lck
 *.lck
 *.kicad_prl
@@ -12,3 +9,4 @@
 *.bck
 fp-info-cache
 _autosave-*
+sim/

@@ -5,4 +5,5 @@
 	(lib (name "DCWN03E-05") (type "KiCad") (uri "${KIPRJMOD}/libs_DCWN03B-12/KiCADv6/2026-11-18_17-22-33.kicad_sym") (options "") (descr ""))
 	(lib (name "OPA350") (type "KiCad") (uri "${KIPRJMOD}/libs_OPA350UA-2K5/KiCADv6/2026-11-18_17-15-42.kicad_sym") (options "") (descr ""))
 	(lib (name "AD8065ARZ") (type "KiCad") (uri "${KIPRJMOD}/libs_AD8065ARZ/AD8065ARZ.kicad_sym") (options "") (descr ""))
+	(lib (name "DCWN06B-12") (type "KiCad") (uri "${KIPRJMOD}/libs_DCWN06B-12/2026-11-21_18-14-55.kicad_sym") (options "") (descr ""))
 )

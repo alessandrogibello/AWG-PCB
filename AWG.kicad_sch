@@ -9575,7 +9575,7 @@
 		(dnp no)
 		(uuid "2a05c105-68d7-4c7d-8caa-570cef0c9de0")
 		(property "Reference" "C22"
-			(at 275.59 152.4 0)
+			(at 275.59 150.114 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9586,7 +9586,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 276.352 153.924 0)
+			(at 276.352 151.638 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10409,7 +10409,7 @@
 		(dnp no)
 		(uuid "3b6e79ab-f043-4d70-b22f-bebae46a56d3")
 		(property "Reference" "C20"
-			(at 265.938 153.416 0)
+			(at 263.144 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10420,7 +10420,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 263.652 149.352 0)
+			(at 264.16 150.622 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11233,7 +11233,7 @@
 		(dnp no)
 		(uuid "562d3d9a-f7e1-4bc3-94c7-8e0baeb77974")
 		(property "Reference" "C21"
-			(at 254 153.416 0)
+			(at 250.698 152.146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11244,7 +11244,7 @@
 			)
 		)
 		(property "Value" "220pF"
-			(at 250.698 149.098 0)
+			(at 251.714 150.368 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12376,7 +12376,7 @@
 		(dnp no)
 		(uuid "82fda08c-99a5-4b7a-aa5e-17481c2e82b3")
 		(property "Reference" "C14"
-			(at 56.388 103.124 0)
+			(at 61.976 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

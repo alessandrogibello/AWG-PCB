@@ -8518,7 +8518,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bd56372-9671-4bb4-88dc-d6024b11b758")
-		(property "Reference" "C5_ceramic4"
+		(property "Reference" "C15"
 			(at 80.264 103.378 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8540,7 +8540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 79.7052 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8582,7 +8582,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic4")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -9515,7 +9515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 96.2152 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9574,8 +9574,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a05c105-68d7-4c7d-8caa-570cef0c9de0")
-		(property "Reference" "C5_ceramic11"
-			(at 279.654 153.416 0)
+		(property "Reference" "C22"
+			(at 275.59 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9586,7 +9586,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 277.622 155.194 0)
+			(at 276.352 153.924 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9596,7 +9596,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 271.4752 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9638,7 +9638,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic11")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -9676,7 +9676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 264.16 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -9756,7 +9756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 389.89 174.498 90)
 			(hide yes)
 			(show_name no)
@@ -9836,7 +9836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 389.89 77.978 90)
 			(hide yes)
 			(show_name no)
@@ -10116,7 +10116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 290.83 33.528 90)
 			(hide yes)
 			(show_name no)
@@ -10408,7 +10408,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b6e79ab-f043-4d70-b22f-bebae46a56d3")
-		(property "Reference" "C5_ceramic9"
+		(property "Reference" "C20"
 			(at 265.938 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10430,7 +10430,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 258.7752 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -10472,7 +10472,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic9")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -10589,7 +10589,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 237.998 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -10993,8 +10993,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d8eb933-1726-4a5d-a6cf-4565d2524f73")
-		(property "Reference" "C5_ceramic0"
-			(at 282.956 102.108 0)
+		(property "Reference" "C11"
+			(at 278.384 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11005,7 +11005,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 280.924 103.886 0)
+			(at 279.908 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11015,7 +11015,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 274.0152 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -11057,7 +11057,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic0")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -11096,7 +11096,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 264.16 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -11232,7 +11232,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "562d3d9a-f7e1-4bc3-94c7-8e0baeb77974")
-		(property "Reference" "C5_ceramic10"
+		(property "Reference" "C21"
 			(at 254 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11254,7 +11254,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 246.0752 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11296,7 +11296,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic10")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -11333,7 +11333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 294.64 24.4348 0)
 			(hide yes)
 			(show_name no)
@@ -11495,7 +11495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 257.048 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -11554,7 +11554,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63437240-27bf-4384-ad43-c55f3d33c06d")
-		(property "Reference" "C5_ceramic5"
+		(property "Reference" "C16"
 			(at 132.334 105.664 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11576,7 +11576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 130.5052 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -11618,7 +11618,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic5")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -12375,7 +12375,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82fda08c-99a5-4b7a-aa5e-17481c2e82b3")
-		(property "Reference" "C5_ceramic3"
+		(property "Reference" "C14"
 			(at 56.388 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12397,7 +12397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 70.8152 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12439,7 +12439,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic3")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -12478,7 +12478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 262.89 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -12635,7 +12635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 389.89 166.878 90)
 			(hide yes)
 			(show_name no)
@@ -12716,7 +12716,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 266.7 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12795,7 +12795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 290.83 48.768 90)
 			(hide yes)
 			(show_name no)
@@ -13031,7 +13031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 27.94 51.562 90)
 			(hide yes)
 			(show_name no)
@@ -13172,7 +13172,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "980ee961-99d0-4132-8fd9-e31cd01ecf3d")
-		(property "Reference" "C5_ceramic1"
+		(property "Reference" "C12"
 			(at 195.834 260.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13194,7 +13194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 192.7352 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -13236,7 +13236,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic1")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -13511,7 +13511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 105.1052 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13909,7 +13909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 389.89 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -14069,7 +14069,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 124.968 66.04 90)
 			(hide yes)
 			(show_name no)
@@ -14554,8 +14554,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c560d8a5-641a-4572-b756-c56d69b1d9e0")
-		(property "Reference" "C5_ceramic2"
-			(at 151.638 259.334 0)
+		(property "Reference" "C13"
+			(at 157.988 260.604 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14566,7 +14566,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 151.638 261.874 0)
+			(at 156.718 262.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14576,7 +14576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 166.0652 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -14618,7 +14618,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic2")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -14713,8 +14713,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf557ea6-495a-44e3-9085-0b1018bae6b2")
-		(property "Reference" "C5_ceramic6"
-			(at 280.67 96.266 0)
+		(property "Reference" "C17"
+			(at 283.972 101.346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14725,7 +14725,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 281.686 97.79 0)
+			(at 282.448 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14735,7 +14735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 289.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14777,7 +14777,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic6")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -14960,7 +14960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d63f80fd-3c35-4fe6-8119-bda4fddabdcd")
-		(property "Reference" "C5_ceramic8"
+		(property "Reference" "C19"
 			(at 278.13 175.006 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14982,7 +14982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 287.02 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15024,7 +15024,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic8")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -15140,7 +15140,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d777b2b9-6d7a-4751-b981-970c602f4085")
-		(property "Reference" "C5_ceramic7"
+		(property "Reference" "C18"
 			(at 280.416 180.848 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15162,7 +15162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 271.4752 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -15204,7 +15204,7 @@
 		(instances
 			(project "AWG"
 				(path "/67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
-					(reference "C5_ceramic7")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -15241,7 +15241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 259.588 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -15477,7 +15477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 266.7 38.608 90)
 			(hide yes)
 			(show_name no)
@@ -15714,7 +15714,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 294.64 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15975,7 +15975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 55.88 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -16133,7 +16133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 294.64 40.9448 0)
 			(hide yes)
 			(show_name no)
@@ -16213,7 +16213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 245.11 66.548 90)
 			(hide yes)
 			(show_name no)
@@ -16293,7 +16293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 238.76 145.288 90)
 			(hide yes)
 			(show_name no)
@@ -16353,7 +16353,7 @@
 		(dnp no)
 		(uuid "f7cf1cae-0b84-4d42-ad00-b71557de8f29")
 		(property "Reference" "C6"
-			(at 300.736 101.346 0)
+			(at 300.482 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16364,7 +16364,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 300.736 102.87 0)
+			(at 300.482 102.616 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16374,7 +16374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 297.18 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -16453,7 +16453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 251.46 255.778 90)
 			(hide yes)
 			(show_name no)
@@ -16533,7 +16533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 251.46 145.288 90)
 			(hide yes)
 			(show_name no)

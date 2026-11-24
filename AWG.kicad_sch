@@ -12695,7 +12695,7 @@
 		(dnp no)
 		(uuid "8bd80838-11c2-4313-93bc-8c03fd739c77")
 		(property "Reference" "C7"
-			(at 263.906 102.362 0)
+			(at 262.89 99.568 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12706,7 +12706,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 263.906 103.886 0)
+			(at 262.89 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

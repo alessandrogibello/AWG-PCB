@@ -9345,8 +9345,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "PESD15VS1UB"
-			(at 249.682 261.62 90)
+		(property "Value" "CDSOD323-T15C"
+			(at 247.142 261.62 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14405,7 +14405,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" "LM1117MPX-3.3"
 			(at 177.8 250.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16681,7 +16681,7 @@
 				)
 			)
 		)
-		(property "Value" "SS24"
+		(property "Value" "B240A-13-F"
 			(at 40.894 263.652 0)
 			(show_name no)
 			(do_not_autoplace no)

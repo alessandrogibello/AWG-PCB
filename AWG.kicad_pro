@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -553,7 +553,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -685,7 +685,7 @@
         "uuid": "67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
       }
     ],
-    "used_designators": "TP1-8,#PWR3,#PWR19,#PWR38,#FLG5-6",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

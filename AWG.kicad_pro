@@ -169,7 +169,7 @@
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
+          "td_onsmdpad": false,
           "td_ontrackend": false,
           "td_onvia": true
         }
@@ -177,7 +177,7 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -685,7 +685,7 @@
         "uuid": "67ef9a37-69ee-4e98-8ec5-187b95ccbb82"
       }
     ],
-    "used_designators": "",
+    "used_designators": "TP1-8,#PWR3,#PWR19,#PWR38,#FLG5-6",
     "variants": []
   },
   "sheets": [
